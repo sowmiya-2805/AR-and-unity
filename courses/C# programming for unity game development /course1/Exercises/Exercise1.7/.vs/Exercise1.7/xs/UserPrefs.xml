@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FA979A64-2F8D-D85E-D06B-B0D5FB2BF384}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/ConvertTemperatures.cs">
+    <Files>
+      <File FileName="Assets/scripts/ConvertTemperatures.cs" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="adde75ea-1475-4a11-9517-36453ebfd932" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

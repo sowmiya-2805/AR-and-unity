@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{D941C08D-9EFD-EDCA-29D8-1EA16CE678B8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/redball.cs">
+    <Files>
+      <File FileName="Assets/scripts/yellowball.cs" Line="14" Column="41" />
+      <File FileName="Assets/scripts/greenball.cs" Line="12" Column="41" />
+      <File FileName="Assets/scripts/redball.cs" Line="12" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="468f420f-79cc-4d3c-9bb4-be751d679329" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

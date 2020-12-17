@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8593352E-5B2F-6E4E-B954-B4EA05F08741}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Resizer.cs">
+    <Files>
+      <File FileName="Assets/scripts/Resizer.cs" Line="30" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise1.16" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="Resizer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8b44c227-86e5-4c4c-9564-30fe7a265c81" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
