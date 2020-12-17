@@ -1,0 +1,16 @@
+c:/users/albert/documents/visual studio 2017/Projects/Exercise1/Exercise1/bin/Debug/Exercise1.exe.config
+c:/users/albert/documents/visual studio 2017/Projects/Exercise1/Exercise1/bin/Debug/Exercise1.exe
+c:/users/albert/documents/visual studio 2017/Projects/Exercise1/Exercise1/bin/Debug/Exercise1.pdb
+c:/users/albert/documents/visual studio 2017/Projects/Exercise1/Exercise1/obj/Debug/Exercise1.csprojResolveAssemblyReference.cache
+c:/users/albert/documents/visual studio 2017/Projects/Exercise1/Exercise1/obj/Debug/Exercise1.exe
+c:/users/albert/documents/visual studio 2017/Projects/Exercise1/Exercise1/obj/Debug/Exercise1.pdb
+c:/users/albert/documents/visual studio 2017/Projects/Exercise1/Exercise1/bin/Debug/ConsoleCards.dll
+/Users/sowmiya/Downloads/_169f229454065a0ac6079d938df88a20_1-2-Visual-Studio-Exercise-1-Materials/Exercise1/Exercise1/obj/Debug/Exercise1.csprojAssemblyReference.cache
+/Users/sowmiya/Downloads/_169f229454065a0ac6079d938df88a20_1-2-Visual-Studio-Exercise-1-Materials/Exercise1/Exercise1/obj/Debug/Exercise1.csproj.CoreCompileInputs.cache
+/Users/sowmiya/Downloads/_169f229454065a0ac6079d938df88a20_1-2-Visual-Studio-Exercise-1-Materials/Exercise1/Exercise1/obj/Debug/Exercise1.exe
+/Users/sowmiya/Downloads/_169f229454065a0ac6079d938df88a20_1-2-Visual-Studio-Exercise-1-Materials/Exercise1/Exercise1/obj/Debug/Exercise1.pdb
+/Users/sowmiya/Downloads/_169f229454065a0ac6079d938df88a20_1-2-Visual-Studio-Exercise-1-Materials/Exercise1/Exercise1/bin/Debug/Exercise1.exe.config
+/Users/sowmiya/Downloads/_169f229454065a0ac6079d938df88a20_1-2-Visual-Studio-Exercise-1-Materials/Exercise1/Exercise1/bin/Debug/Exercise1.exe
+/Users/sowmiya/Downloads/_169f229454065a0ac6079d938df88a20_1-2-Visual-Studio-Exercise-1-Materials/Exercise1/Exercise1/bin/Debug/Exercise1.pdb
+/Users/sowmiya/Downloads/_169f229454065a0ac6079d938df88a20_1-2-Visual-Studio-Exercise-1-Materials/Exercise1/Exercise1/bin/Debug/ConsoleCards.dll
+/Users/sowmiya/Downloads/_169f229454065a0ac6079d938df88a20_1-2-Visual-Studio-Exercise-1-Materials/Exercise1/Exercise1/obj/Debug/Exercise1.csproj.CopyComplete

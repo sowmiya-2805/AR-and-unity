@@ -1,0 +1,6 @@
+/Users/sowmiya/coursera/C# for game development/Exercise/course 2/Exercise2.3/Exercise2.3/bin/Debug/Exercise2.3.exe
+/Users/sowmiya/coursera/C# for game development/Exercise/course 2/Exercise2.3/Exercise2.3/bin/Debug/Exercise2.3.pdb
+/Users/sowmiya/coursera/C# for game development/Exercise/course 2/Exercise2.3/Exercise2.3/obj/Debug/Exercise2.3.csprojAssemblyReference.cache
+/Users/sowmiya/coursera/C# for game development/Exercise/course 2/Exercise2.3/Exercise2.3/obj/Debug/Exercise2.3.csproj.CoreCompileInputs.cache
+/Users/sowmiya/coursera/C# for game development/Exercise/course 2/Exercise2.3/Exercise2.3/obj/Debug/Exercise2.3.exe
+/Users/sowmiya/coursera/C# for game development/Exercise/course 2/Exercise2.3/Exercise2.3/obj/Debug/Exercise2.3.pdb
