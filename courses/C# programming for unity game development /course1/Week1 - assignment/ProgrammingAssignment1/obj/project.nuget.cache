@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ek+gX6PPKNEJnMJznhbVfWi4/wo/cNcRyWv3SUFQxm93cD0uGgIlEJ7XMPhv+djuWkoHFfB+V3MsTU1YY2l7Lw==",
+  "success": true,
+  "projectFilePath": "/Users/sowmiya/Downloads/ProgrammingAssignment1/ProgrammingAssignment1/ProgrammingAssignment1.csproj",
+  "expectedPackageFiles": [
+    "/Users/sowmiya/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
