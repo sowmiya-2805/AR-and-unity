@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{626BAF6C-E06D-4FD1-AE94-80D748607AAE}|Default">
+  <MonoDevelop.Ide.ItemProperties.ProgrammingAssignment2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgrammingAssignment2/Egg.cs">
+    <Files>
+      <File FileName="ProgrammingAssignment2/Program.cs" Line="173" Column="1" />
+      <File FileName="ProgrammingAssignment2/EggColor.cs" />
+      <File FileName="ProgrammingAssignment2/HowCooked.cs" />
+      <File FileName="ProgrammingAssignment2/Egg.cs" Line="136" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProgrammingAssignment2" expanded="True">
+            <Node name="ProgrammingAssignment2" expanded="True">
+              <Node name="Egg.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

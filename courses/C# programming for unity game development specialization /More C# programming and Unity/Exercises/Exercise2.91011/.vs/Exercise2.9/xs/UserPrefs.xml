@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E7E98174-BC53-4957-ACF8-EE6CA3B76CD1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise2.9/Apple.cs">
+    <Files>
+      <File FileName="Exercise2.9/Program.cs" Line="1" Column="1" />
+      <File FileName="Exercise2.9/Apple.cs" Line="8" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise2.9" expanded="True">
+            <Node name="Exercise2.9" expanded="True">
+              <Node name="Apple.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Exercise2.9 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
