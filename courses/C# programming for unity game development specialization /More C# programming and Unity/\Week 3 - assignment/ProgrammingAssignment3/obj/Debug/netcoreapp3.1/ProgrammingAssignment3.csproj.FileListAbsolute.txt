@@ -1,0 +1,12 @@
+/Users/sowmiya/Downloads/ProgrammingAssignment3/ProgrammingAssignment3/bin/Debug/netcoreapp3.1/ProgrammingAssignment3.deps.json
+/Users/sowmiya/Downloads/ProgrammingAssignment3/ProgrammingAssignment3/bin/Debug/netcoreapp3.1/ProgrammingAssignment3.runtimeconfig.json
+/Users/sowmiya/Downloads/ProgrammingAssignment3/ProgrammingAssignment3/bin/Debug/netcoreapp3.1/ProgrammingAssignment3.runtimeconfig.dev.json
+/Users/sowmiya/Downloads/ProgrammingAssignment3/ProgrammingAssignment3/bin/Debug/netcoreapp3.1/ProgrammingAssignment3.dll
+/Users/sowmiya/Downloads/ProgrammingAssignment3/ProgrammingAssignment3/bin/Debug/netcoreapp3.1/ProgrammingAssignment3.pdb
+/Users/sowmiya/Downloads/ProgrammingAssignment3/ProgrammingAssignment3/obj/Debug/netcoreapp3.1/ProgrammingAssignment3.csprojAssemblyReference.cache
+/Users/sowmiya/Downloads/ProgrammingAssignment3/ProgrammingAssignment3/obj/Debug/netcoreapp3.1/ProgrammingAssignment3.AssemblyInfoInputs.cache
+/Users/sowmiya/Downloads/ProgrammingAssignment3/ProgrammingAssignment3/obj/Debug/netcoreapp3.1/ProgrammingAssignment3.AssemblyInfo.cs
+/Users/sowmiya/Downloads/ProgrammingAssignment3/ProgrammingAssignment3/obj/Debug/netcoreapp3.1/ProgrammingAssignment3.csproj.CoreCompileInputs.cache
+/Users/sowmiya/Downloads/ProgrammingAssignment3/ProgrammingAssignment3/obj/Debug/netcoreapp3.1/ProgrammingAssignment3.dll
+/Users/sowmiya/Downloads/ProgrammingAssignment3/ProgrammingAssignment3/obj/Debug/netcoreapp3.1/ProgrammingAssignment3.pdb
+/Users/sowmiya/Downloads/ProgrammingAssignment3/ProgrammingAssignment3/obj/Debug/netcoreapp3.1/ProgrammingAssignment3.genruntimeconfig.cache

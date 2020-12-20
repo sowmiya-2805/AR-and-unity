@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E0651422-BF47-EF24-6EAC-AE6486D44041}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Bouncer.cs">
+    <Files>
+      <File FileName="Assets/scripts/Bouncer.cs" Line="31" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise2.12" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="Bouncer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8b44c227-86e5-4c4c-9564-30fe7a265c81" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
