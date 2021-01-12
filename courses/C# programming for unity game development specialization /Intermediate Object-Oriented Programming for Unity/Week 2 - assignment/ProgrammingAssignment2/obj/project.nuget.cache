@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U2+w0dn+F50x+mIUrPLWbUJiXdxsE6TJbZegcUexKqEgA+nmkiJpSEuEA8yLCVbTyx/9yu5fSTudJAXF0hqaLw==",
+  "success": true,
+  "projectFilePath": "/Users/sowmiya/coursera/C# for game development/programming assignments/course3/ProgrammingAssignment2/ProgrammingAssignment2/ProgrammingAssignment2.csproj",
+  "expectedPackageFiles": [
+    "/Users/sowmiya/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

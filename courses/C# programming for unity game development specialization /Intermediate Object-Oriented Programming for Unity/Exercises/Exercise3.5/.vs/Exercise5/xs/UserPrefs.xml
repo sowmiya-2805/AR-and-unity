@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CADCB8CE-99D7-D539-D67C-E3EC9C191FBF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/RedBall.cs">
+    <Files>
+      <File FileName="Assets/scripts/GreenBall.cs" Line="19" Column="6" />
+      <File FileName="Assets/scripts/Ball.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/RedBall.cs" Line="10" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise5" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="RedBall.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="13f438ae-56eb-42e5-ae22-5b6c1d4f61de" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

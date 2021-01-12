@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{742B4D69-4163-45A8-A470-6A0D543EC9D7}|Default">
+  <MonoDevelop.Ide.ItemProperties.Exercise3.4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise3.4/Artistic.cs">
+    <Files>
+      <File FileName="Exercise3.4/Program.cs" Line="17" Column="37" />
+      <File FileName="Exercise3.4/Kid.cs" Line="16" Column="1" />
+      <File FileName="Exercise3.4/Naughty.cs" Line="12" Column="91" />
+      <File FileName="Exercise3.4/Artistic.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise3.4" expanded="True">
+            <Node name="Exercise3.4" expanded="True">
+              <Node name="Artistic.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
